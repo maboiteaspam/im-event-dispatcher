@@ -19,5 +19,10 @@
       "type": "git",
       "url": "git@github.com:maboiteaspam/st-event-dispatcher.git"
     }
-  ]
+  ],
+  "autoload": {
+    "psr-4": {
+      "im\\": "src/im"
+    }
+  }
 }
