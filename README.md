@@ -18,7 +18,7 @@ The recommended way to install Component is through composer.
   "minimum-stability": "dev",
   "require": {
     "php": ">=5.5.0",
-    "im/event-dispatcher": "dev-master#v1.0.1"
+    "im/event-dispatcher": "v1.0.1"
   },
   "repositories": [
     {
