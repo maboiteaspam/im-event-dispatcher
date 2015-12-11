@@ -1,6 +1,6 @@
 # Implemented - Standard Event Interface for PHP
 
-The implemented standard event interface available here https://github.com/maboiteaspam/st-event-dispatcher
+Implemented Standard Event Interface for PHP available here https://github.com/maboiteaspam/st-event-dispatcher
 
 ## Dependencies
 
