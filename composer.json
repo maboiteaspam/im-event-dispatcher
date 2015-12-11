@@ -1,0 +1,23 @@
+{
+  "name": "im/event-dispatcher",
+  "description": "Implemented - Standard Event Interface for PHP",
+  "type": "st",
+  "license": "WTF",
+  "authors": [
+    {
+      "name": "maboiteaspam",
+      "email": "no@where.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {
+    "php": ">=5.5.0",
+    "st/event-dispatcher": "dev-master#v1.0.1"
+  },
+  "repositories": [
+    {
+      "type": "git",
+      "url": "git@github.com:maboiteaspam/st-event-dispatcher.git"
+    }
+  ]
+}
